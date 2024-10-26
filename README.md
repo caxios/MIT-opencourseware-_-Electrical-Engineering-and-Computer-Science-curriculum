@@ -37,7 +37,7 @@ Syllabus : https://ocw.mit.edu/courses/6-092-introduction-to-programming-in-java
 
 ​
 
-# 6.041 Probabilistic System Analysis And Applied Probability / 2010
+# 6.041 : Probabilistic System Analysis And Applied Probability / 2010
 
 textbook : Bertsekas, Dimitri, and John Tsitsiklis. Introduction to Probability. 2nd ed. Athena Scientific, 2008. ISBN: 9781886529236. Solutions to end-of-chapter problems are available: (PDF - 1.5MB)  / Drake, Alvin. Fundamentals of Applied Probability Theory. McGraw-Hill, 1967. ISBN: 9780070178151.
 
@@ -45,7 +45,7 @@ Syllabus : https://ocw.mit.edu/courses/6-041-probabilistic-systems-analysis-and-
 
 ​
 
-# Introduction to Algorithms
+# 6.006 : Introduction to Algorithms
 
 Textbook : Cormen, Thomas, Charles Leiserson, Ronald Rivest, and Clifford Stein. Introduction to Algorithms. 2nd ed. Cambridge, MA: MIT Press, 2001. ISBN: 9780262032933.
 
