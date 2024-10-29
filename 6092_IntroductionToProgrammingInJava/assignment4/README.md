@@ -6,4 +6,4 @@
 
 ---
 
-static variable, instance variable share same concepts as static method and instance method.
+● static variable, instance variable share same concepts as static method and instance method.
