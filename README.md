@@ -35,6 +35,10 @@ Syllabus : https://ocw.mit.edu/courses/6-004-computation-structures-spring-2009/
 
 Syllabus : https://ocw.mit.edu/courses/6-092-introduction-to-programming-in-java-january-iap-2010/pages/syllabus/
 
+
+### 6.046J : Design And Analysis Of Algorithm
+
+Syllabus : https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2012/pages/syllabus/
 ​
 
 ### 6.041 : Probabilistic System Analysis And Applied Probability / 2010
